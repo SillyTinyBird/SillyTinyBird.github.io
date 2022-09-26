@@ -1,18 +1,20 @@
 name: Maxim Buldakov
-#dp: https://avatars2.githubusercontent.com/u/36638057?s=460&u=0cbe4fd6b5a3655d91b3eb86db834d0829a0c086&v=4
+dp: https://avatars.githubusercontent.com/u/99384045?v=4
 description: "
   <p>
-    Some kind of text idk
+    Maxim Buldakov is an aspiring game developer, who focuses on delivering exquisite gameplay mechanics and systems.
   </p>
   <br/>
   <p>
-    also text
+    
   </P>
 "
 email: buldakov.m99@gmail.com
 contact:
 #  - title: linkedin
  #   url: https://www.linkedin.com/in/srsmaurya
+  - title: resume
+    url: https://docs.google.com/document/d/1NcVOrZP_FsRwtVUKuJvL0gN1hPBIAy3ee2VjX2psLxs/edit?usp=sharing
   - title: github
     url: https://github.com/SillyTinyBird
   - title: twitter
