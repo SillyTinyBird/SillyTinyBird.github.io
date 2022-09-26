@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jekyll Markdown
+description: test test tes. Sample text!
 date: 2021-11-04
 categories: ["jekyll", "Test Post", "first post"]
 ---

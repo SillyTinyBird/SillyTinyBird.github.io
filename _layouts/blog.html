@@ -10,6 +10,7 @@
           <h2 class="article-title">
             <a href="{{site.baseurl}}{{post.url}}"> {{post.title}} </a>
           </h2>
+		  <a class="description" href="{{site.baseurl}}{{post.url}}">{{post.description}}</a>
           <small class="date">{{post.date | date_to_string}}</small>
           <div class="categories">
             {% for c in post.categories %}

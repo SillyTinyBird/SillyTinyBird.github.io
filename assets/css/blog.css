@@ -109,6 +109,11 @@ main {
   display: block;
   font-size: 0.8rem;
 }
+.articles .article .description{
+  color: var(--white-2);
+  line-height: 1.2rem;
+  font-weight: 300;
+}
 .articles .article .categories {
   display: flex;
   flex-direction: row;
