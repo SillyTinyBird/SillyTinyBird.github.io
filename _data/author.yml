@@ -1,0 +1,21 @@
+name: Maxim Buldakov
+#dp: https://avatars2.githubusercontent.com/u/36638057?s=460&u=0cbe4fd6b5a3655d91b3eb86db834d0829a0c086&v=4
+description: "
+  <p>
+    Some kind of text idk
+  </p>
+  <br/>
+  <p>
+    also text
+  </P>
+"
+email: buldakov.m99@gmail.com
+contact:
+#  - title: linkedin
+ #   url: https://www.linkedin.com/in/srsmaurya
+  - title: github
+    url: https://github.com/SillyTinyBird
+  - title: twitter
+    url: https://twitter.com/sillytinybird
+  - title: email
+    url: mailto:buldakov.m99@gmail.com
