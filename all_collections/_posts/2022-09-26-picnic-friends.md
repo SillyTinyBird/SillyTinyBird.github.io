@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Picnic friends!
-date: 2022-09-27
+date: 2022-09-26
 description: Strawberry (team of 6)  – Gameplay programmer (Unity, C#)
 categories: ["project", "finished","unity"]
 ---
