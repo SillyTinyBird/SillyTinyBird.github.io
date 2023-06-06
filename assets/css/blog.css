@@ -105,6 +105,16 @@ main {
 .articles .article:hover {
   transform: scale(1.05);
 }
+.articles .article .image {
+  float: left;  
+  margin: 0 15px 0 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 8.4rem;
+  height: 8.4rem;
+  object-fit: cover;
+}
 .articles .article .date {
   display: block;
   font-size: 0.8rem;

@@ -4,6 +4,7 @@ title: Picnic friends!
 date: 2022-09-26
 description: Strawberry (team of 6)  – Gameplay programmer (Unity, C#)
 categories: ["project", "finished","unity"]
+image: /assets/post_content/picknickFrineds.gif
 ---
 > Source code for this project can be found here: [Github](https://github.com/SillyTinyBird/whgjam2022strawberry)
 
