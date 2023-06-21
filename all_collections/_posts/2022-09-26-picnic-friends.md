@@ -2,7 +2,7 @@
 layout: post
 title: Picnic friends!
 date: 2022-09-26
-description: Strawberry (team of 6)  – Gameplay programmer (Unity, C#)
+description: Strawberry (team of 6)<br>Gameplay programmer (Unity, C#)
 categories: ["project", "finished","unity"]
 image: /assets/post_content/picknickFrineds.gif
 ---
@@ -21,4 +21,7 @@ The GIF below demonstrates the intractability of ingredients on the recipe scene
 ![cooking]({{site.baseurl}}/assets/post_content/cooking.gif)
 >You can play the game here: [itch.io](https://alexu16.itch.io/picnic-friends)
 
-> Source code for this project can be found here: [Github](https://github.com/SillyTinyBird/whgjam2022strawberry)
+Thanks for reading.<br>
+Maxim.
+
+
